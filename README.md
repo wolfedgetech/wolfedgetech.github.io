@@ -1,1 +1,1 @@
-# wolfedgetech.github.io
+![](WolfEdge_logo_horizontal.png)
